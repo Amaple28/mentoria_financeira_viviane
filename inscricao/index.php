@@ -137,7 +137,7 @@
             </div>
             <p class="copyright">
                 © 2025 Viviane Nunes Finanças. Todos os Direitos Reservados. Developed by
-                <a href="https://www.isluwebdesign.com.br" target="_blank" style="color:white;">ISLU Web Design</a>
+                <a href="https://github.com/Amaple28" target="_blank" style="color:white;">Maisa Rodrigues</a>
             </p>
         </div>
     </footer>
